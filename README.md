@@ -6,7 +6,7 @@ Analyze customer shopping data to:
 - Support business decisions with data-driven insights
 
 ## Dataset Used
- - <a href="https://github.com/amit4910/Customer_sales_Dashboard/blob/main/customer.csv">Customer Dataset</a>
+ - <a href="https://github.com/mrunaliurkudkar/Customer-sales-Dashboard/blob/main/customer.csv">Customer Dataset</a>
 ## Questions (KPIs)
 -	How is the shopping distribution according to gender?
 -	Which gender did we sell more products to?
