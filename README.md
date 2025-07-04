@@ -18,7 +18,7 @@ Analyze customer shopping data to:
 -	Distribution of purchase categories relative to other columns?
 -	Does the payment method have a relation with other columns?
 -	How is the distribution of the payment method?
-- Dashboard Interaction <a href="https://github.com/amit4910/Customer_sales_Dashboard/blob/main/snapshot_salesdashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/mrunaliurkudkar/Customer-sales-Dashboard/blob/main/customer_sales_dashboard.pbit">View Dashboard</a>
 
 ## Process
 - Collected and cleaned customer transaction data (2021–2023) for accurate analysis across gender, age, product category, and payment methods.
